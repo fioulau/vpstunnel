@@ -2,7 +2,9 @@
 
 1.1、提供shadowsocks翻墙服务
 
-1.1.1、shadowsocks for windows绿色免安装包，点击下载
+1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
+
+1.1.1.1、shadowsocks for windows绿色免安装包下载后解压运行local.exe即可，socks5代理为127.0.0.1:50808
 
 1.1.2、非windows系统
 
