@@ -2,9 +2,15 @@
 
 1.1、提供shadowsocks翻墙服务，感谢[殁梦](https://twitter.com/UfMeng)提供的免费VPS。
 
-1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
+1.1.1、windows系统
 
-1.1.1.1、shadowsocks for windows绿色免安装包下载后解压运行local.exe即可（local.exe文件来自 https://github.com/clowwindy/shadowsocks-win32pack ），socks5代理为127.0.0.1:50801
+1.1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
+
+1.1.1.1.1、shadowsocks for windows绿色免安装包下载后解压运行local.exe即可（local.exe文件来自 https://github.com/clowwindy/shadowsocks-win32pack ），socks5代理为127.0.0.1:50801
+
+1.1.1.2、[shadowsocks for windows绿色免安装包，内置http代理，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks_httpproxy.zip)
+
+1.1.1.2.1、shadowsocks for windows绿色免安装包下载后解压运行run.bat即可，socks5代理为127.0.0.1:50801，http代理为127.0.0.1:58213
 
 1.1.2、非windows系统
 
