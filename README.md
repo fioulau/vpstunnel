@@ -1,6 +1,5 @@
 1、提供各种翻墙服务
 
-# 暂时VPS故障，请耐心等待。
 1.1、提供shadowsocks翻墙服务，感谢[殁梦](https://twitter.com/UfMeng)提供的免费VPS。
 
 1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
