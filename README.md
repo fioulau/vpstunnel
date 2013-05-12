@@ -18,6 +18,6 @@
 
 1.1.2.2、[Android、iOS和其他系统请参考shadowsocks相关项目，点击进入](https://github.com/clowwindy/shadowsocks/wiki/Ports-and-Clients)
 
-1.1.2.3、[点击访问shadowsocks的配置文件（非windows系统所需要的配置文件）](https://github.com/lehui99/vpstunnel/tree/master/shadowsocks)
+1.1.2.3、[点击访问shadowsocks的配置文件（非windows系统所需要的配置文件，服务器地址和密码可在此文件中找到）](https://github.com/lehui99/vpstunnel/tree/master/shadowsocks)
 
 2、招募项目管理维护人员，不需要有技术，只需要有热情。请联系 lehui99@gmail.com 加入
