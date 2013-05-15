@@ -2,6 +2,8 @@
 
 1.1、提供shadowsocks翻墙服务，感谢[殁梦](https://twitter.com/UfMeng)提供的免费VPS。
 
+# VPS暂时故障，暂时无法提供服务
+
 1.1.1、windows系统
 
 1.1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
