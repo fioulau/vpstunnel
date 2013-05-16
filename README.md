@@ -4,6 +4,8 @@
 
 # VPS暂时故障，暂时无法提供服务
 
+## 接VPS服务商通知：XEN VPS暂停通知：很抱歉的通知您，因为资金问题，免费的XEN VPS将于近期停止服务，请各位注意备份好自己的数据，免费VPS服务将于月底恢复，届时将向各位提供位于KT机房的OpenVZ VPS，对带给您的不便深表歉意。
+
 1.1.1、windows系统
 
 1.1.1.1、[shadowsocks for windows绿色免安装包，点击下载](https://github.com/vpstunnel/downloads/raw/master/shadowsocks/shadowsocks.zip)
